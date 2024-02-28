@@ -1,8 +1,6 @@
 # yolov9_tensorRT_Cplusplus
+
 yolov9 tensorRT C++部署。
-
-
-# yolov8 tensorRT 的 C++ 部署
 
 本示例中，包含完整的代码、模型、测试图片、测试结果。
 
